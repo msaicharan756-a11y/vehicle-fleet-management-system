@@ -31,12 +31,13 @@ Search Vehicle Input vehicle ID Traverse records If found → display details El
 💻 Implementation Language: C
 Concepts Used: struct Pointers malloc() realloc() free() Functions (modular programming) Menu-driven logic
 
-<img width="525" height="237" alt="Screenshot 2026-04-04 084823" src="https://github.com/user-attachments/assets/c28e3058-a16d-4f7d-830f-b41be3e69875" />
-<img width="579" height="423" alt="Screenshot 2026-04-04 084814" src="https://github.com/user-attachments/assets/735ff4cd-b4e7-4cad-8637-690ecc3ce20b" />
-<img width="624" height="383" alt="Screenshot 2026-04-04 084737" src="https://github.com/user-attachments/assets/00aee6df-a4e9-4ca6-a6d1-0b1b5b7cf0bd" />
-<img width="558" height="294" alt="Screenshot 2026-04-04 084726" src="https://github.com/user-attachments/assets/db56ef4b-8c3a-4687-8cd4-ef256be6eded" />
-<img width="597" height="362" alt="Screenshot 2026-04-04 084702" src="https://github.com/user-attachments/assets/470a4312-5d0e-42ab-b473-1f952aa45a24" />
-<img width="689" height="392" alt="Screenshot 2026-04-04 084621" src="https://github.com/user-attachments/assets/63a82979-8428-4430-9a00-0aaf592bf734" />
+<img width="689" height="392" alt="Screenshot 2026-04-04 084621" src="https://github.com/user-attachments/assets/ecba54e6-aff1-43a9-8f81-86519d276e99" />
+<img width="597" height="362" alt="Screenshot 2026-04-04 084702" src="https://github.com/user-attachments/assets/bc446405-5273-402b-b9b7-a43337ed607d" />
+<img width="558" height="294" alt="Screenshot 2026-04-04 084726" src="https://github.com/user-attachments/assets/ceae1599-7fb1-4435-8fef-2a13e748972a" />
+<img width="624" height="383" alt="Screenshot 2026-04-04 084737" src="https://github.com/user-attachments/assets/41ef0004-f6fc-4fd9-8b5a-ec8ed045f419" />
+<img width="579" height="423" alt="Screenshot 2026-04-04 084814" src="https://github.com/user-attachments/assets/90ec4324-5fa5-4396-94b7-b0b39b9496d0" />
+<img width="525" height="237" alt="Screenshot 2026-04-04 084823" src="https://github.com/user-attachments/assets/2805f180-217d-4594-b5c4-f754d604d47a" />
+
 
 ✅ Conclusion
 This project demonstrates how dynamic memory allocation can be used to efficiently manage data in real-time applications. It provides a flexible and scalable solution for handling vehicle records compared to static memory systems.
