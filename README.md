@@ -1,8 +1,11 @@
 # vehicle-fleet-management-system
 📌 Project Title
 Vehicle Fleet Management System using CRUD Operations with Dynamic Memory Allocation in C
+
 Team Members
+
 Student1 M.Sai Charan
+
 Student2 P.Vishnu vardhan
 
 📌 Problem Statement
@@ -31,8 +34,23 @@ Update Vehicle Input vehicle ID Traverse records If found → update details Els
 Delete Vehicle Input vehicle ID Traverse records Adjust memory Free memory using free()
 Search Vehicle Input vehicle ID Traverse records If found → display details Else → not found
 
+⚙️ Compilation and Execution Instructions
+
+To run the Vehicle Fleet Management System program, a C compiler such as GCC is required. Follow the steps below:
+1.Save the program file as main.c
+2.Open terminal / command prompt and navigate to the folder where the file is stored
+3.Compile the program using the command:
+gcc main.c -o fleet
+4.Run the compiled program using:
+./fleet
+(For Windows use: fleet.exe)
+
+
 💻 Implementation Language: C
 Concepts Used: struct Pointers malloc() realloc() free() Functions (modular programming) Menu-driven logic
+
+🖥️Demo Output
+
 
 <img width="689" height="392" alt="Screenshot 2026-04-04 084621" src="https://github.com/user-attachments/assets/ecba54e6-aff1-43a9-8f81-86519d276e99" />
 <img width="597" height="362" alt="Screenshot 2026-04-04 084702" src="https://github.com/user-attachments/assets/bc446405-5273-402b-b9b7-a43337ed607d" />
