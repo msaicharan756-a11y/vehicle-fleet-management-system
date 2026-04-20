@@ -4,7 +4,7 @@ Vehicle Fleet Management System using CRUD Operations with Dynamic Memory Alloca
 
 Team Members
 
-Student1 M.Sai Charan
+Student1 M. sai
 
 Student2 P.Vishnu vardhan
 
